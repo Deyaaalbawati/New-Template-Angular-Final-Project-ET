@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ET_Angular_Final_Project';
+
+constructor(){
+  
 }
+}
+
